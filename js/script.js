@@ -1,10 +1,10 @@
 console.log("Cześć!");
 
 let button = document.querySelector(".button");
-let naglowek = document.querySelector(".naglowek");
+let header = document.querySelector(".header");
 
 button.addEventListener("click", () => {
-    naglowek.remove();
+    header.remove();
 });
 
 console.log(button);
