@@ -1,7 +1,6 @@
 html {
     box-sizing: border-box;
-    background-color: white;
-    
+    background-color: rgb(255, 255, 255);
 }
 
 *, ::before, ::after {
@@ -11,6 +10,5 @@ html {
     background-color: rgb(195, 191, 191);
     margin: 0 auto;
     max-width: 1000px;
-    background-size: 1000px;
-    border: 1px solid;
+    border: 2px solid rgb(0, 0, 0);
 }
