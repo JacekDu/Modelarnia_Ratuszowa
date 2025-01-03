@@ -1,5 +1,5 @@
 # Modelarnia Ratuszowa - Nowa Dęba    
-![image](https://github.com/user-attachments/assets/d65f3cc1-16c4-48c6-b2f8-99d4e71a5676)
+
 ![image](images/under-construction.png)
 
 ## Demo:
