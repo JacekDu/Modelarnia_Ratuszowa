@@ -1,4 +1,4 @@
-console.log("Cześć!");
+console.log("Hello advanced visitors!");
 
 let button = document.querySelector(".button");
 let header = document.querySelector(".header");
