@@ -3,4 +3,6 @@
 
 https://jacekdu.github.io/Modelarnia_Ratuszowa/
 
-![Alternatywny tekst] (../images/front.jpg)
+![Frontpage](images/front.jpg)
+
+## Description
