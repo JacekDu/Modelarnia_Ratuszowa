@@ -1,6 +1,42 @@
 .body {
-    background-color: rgb(195, 191, 191);
     margin: 0 auto;
     max-width: 1200px;
     border: 2px solid rgb(0, 0, 0);
+}
+
+.nav {
+    background-color: rgb(57, 57, 236);
+    
+}
+.nav_list {
+    display:flex;
+    justify-content: center;
+    margin-bottom: 0px;
+}
+
+.nav_item {
+    color: rgb(255, 255, 255);
+    list-style: none;
+    text-align: center;
+    padding: 5px;
+    border: 1px solid rgb(255, 255, 255);
+    margin: 5px;
+}    
+
+.main {
+    display: flex;
+    background-color: rgb(210, 210, 210);  
+}
+
+
+.welcome_text {
+    padding: 20px;
+    align-self: center;
+}
+
+.footer {
+    background-color: rgb(57, 57, 236);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 5px;
 }
