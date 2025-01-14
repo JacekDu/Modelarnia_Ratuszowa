@@ -33,7 +33,7 @@ header li {
     list-style: none;
     display: inline-block;
     padding: 0 15px;
-    gap: 10px;
+    gap: 1px;
 }
 
 header a {
