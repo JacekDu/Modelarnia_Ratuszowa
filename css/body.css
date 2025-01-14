@@ -19,8 +19,8 @@ header {
     display: flex;
     justify-content: flex-end;
     align-items: center;
-    /**padding: 20px 30px;*/
 }
+
 .BrandName {
     margin-right: auto;
     font-size: 1.4em;
