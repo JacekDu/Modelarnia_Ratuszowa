@@ -2,28 +2,47 @@
     font-family: 'Lato', sans-serif;
     margin: 0 auto;
     max-width: 1000px;
-    border: 2px solid rgb(0, 0, 0);
+    border: 1px solid rgb(0, 0, 0);
 }
 
-.nav {
-    background-color: rgb(57, 57, 236);
-    
-}
-.nav_list {
-    display:flex;
-    justify-content: center;
-    margin-bottom: 0px;
-}
-
-.nav_listItem {
-    color: rgb(255, 255, 255);
-    list-style: none;
+.motto {
+  
+    margin-top: 0;
+    font-size: 1.6em;
+    color: #000; 
     text-align: center;
-    padding: 5px;
-    border: 1px solid rgb(210, 210, 210);
-    margin-top: 15px;
-    margin-left: 5px;
-    margin-bottom: 0;
+    font-style: italic;
+    background: #fff;
+}
+
+header {
+    background-color: rgb(57, 57, 236);
+    color: white;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    /**padding: 20px 30px;*/
+}
+.BrandName {
+    margin-right: auto;
+    font-size: 1.4em;
+}
+header li {
+    list-style: none;
+    display: inline-block;
+    padding: 0 15px;
+}
+
+header a {
+    text-decoration: none;
+    
+    color: white;
+    transition: all 0.7s ease 0s;
+}
+
+header a:hover {
+    color: black;
+    background-color: rgb(210, 210, 210);
 }
 
 .main {
