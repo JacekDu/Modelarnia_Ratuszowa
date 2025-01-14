@@ -4,13 +4,12 @@
     max-width: 1000px;
     border: 1px solid rgb(0, 0, 0);
 }
-#logo {
+.mrlogo_2 {
     text-align: right;
-    margin-top: 10px;
-    margin-bottom: 10px;
+  
 }
 .motto {
-    text-align: right;
+    text-align: center;
     padding-right: 10px;
     font-size: 1.6em;
     color: #000; 
