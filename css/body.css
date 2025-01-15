@@ -23,6 +23,7 @@ header {
     display: flex;
     justify-content: flex-end;
     align-items: center;
+    padding-right: 20px;
 }
 
 .BrandName {
@@ -32,13 +33,15 @@ header {
 header li {
     list-style: none;
     display: inline-block;
-    padding: 0 15px;
+    padding: 0 3px;
+    border: 2px solid rgb(210, 210, 210);
+    
 }
 
 header a {
     text-decoration: none;
     color: white;
-    transition: all 0.7s ease 0s;
+    transition: all 0.7s ease 0s; 
 }
 
 header a:hover {
