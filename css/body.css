@@ -54,8 +54,8 @@ header a:hover {
     background-color: rgb(210, 210, 210);  
 }
 
-.welcome_text {
-    padding: 20px;
+.hero__text {
+    padding: 0 20px;
     align-self: center;
 }
 
